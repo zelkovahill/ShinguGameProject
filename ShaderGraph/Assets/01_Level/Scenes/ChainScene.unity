@@ -224,7 +224,7 @@ Transform:
   m_GameObject: {fileID: 325310717}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.95, y: 3.4147253, z: 7.33}
+  m_LocalPosition: {x: -1.08, y: 0.66, z: 1.11}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -863,14 +863,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1168112298}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.38, y: 3.0542696, z: 10.75}
+  m_LocalRotation: {x: -0, y: -0.4739629, z: -0, w: 0.8805449}
+  m_LocalPosition: {x: 1.765, y: 0.29954433, z: 0.943}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 835778902}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -56.584, z: 0}
 --- !u!114 &1168112303
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -901,7 +901,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _refreshRate: 0.01
   _maximumEnemiesInChain: 4
-  _delayBetweenEachChain: 0.5
+  _delayBetweenEachChain: 0.1
   _playerFirePoint: {fileID: 835778902}
   _playerEnemyDetector: {fileID: 1168112303}
   _lineRenererPrefab: {fileID: 5823570945382151125, guid: f5f00610841598244b26a083d283ac72,
@@ -1008,7 +1008,7 @@ Transform:
   m_GameObject: {fileID: 1575477289}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.28, y: 3.4147253, z: 6.06}
+  m_LocalPosition: {x: 0.47999978, y: 0.6600001, z: -0.8199997}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1380,7 +1380,7 @@ Transform:
   m_GameObject: {fileID: 2015129705}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.61, y: 3.4147253, z: 6.27}
+  m_LocalPosition: {x: -1.4100001, y: 0.6600001, z: -0.60999966}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
